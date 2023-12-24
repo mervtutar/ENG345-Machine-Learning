@@ -3,7 +3,7 @@
  
  HW2-SVMS and Linear Classifiers - Experiments with KNN, SVM on a classification data set (Bank Marketing Data)
  
- HW3-PCA on Mnist Data
+ HW3-PCA on MNIST Data
  
  HW4-PCA and K-means algorithm
  
